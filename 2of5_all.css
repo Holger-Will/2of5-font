@@ -1,0 +1,10 @@
+@font-face { font-family: 'i2of5_S'; src: url('fonts/2of5_S.woff'); }
+@font-face { font-family: 'i2of5'; src: url('fonts/2of5.woff'); }
+@font-face { font-family: 'i2of5_L'; src: url('fonts/2of5_L.woff'); }
+@font-face { font-family: 'i2of5_XL'; src: url('fonts/2of5_XL.woff'); }
+@font-face { font-family: 'i2of5_XXL'; src: url('fonts/2of5_XXL.woff'); }
+.i2of5_S { font-family: i2of5_S; font-size:28px }
+.i2of5 { font-family: i2of5; font-size:56px }
+.i2of5_L { font-family: i2of5_L; font-size:84px }
+.i2of5_XL { font-family: i2of5_XL; font-size:112px }
+.i2of5_XXL { font-family: i2of5_XXL; font-size:140px }
