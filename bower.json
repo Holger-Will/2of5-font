@@ -1,0 +1,25 @@
+{
+  "name": "2of5-font",
+  "homepage": "https://github.com/Holger-Will/2of5-font",
+  "authors": [
+    "Holger Will <h.will@klimapartner.de>"
+  ],
+  "description": "an interleaved 2of5 barcode font",
+  "main": "2of5_all.css",
+  "keywords": [
+    "2of5 interleaved",
+    "interleaved",
+    "2of5",
+    "2 of 5",
+    "barcode",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
